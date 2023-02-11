@@ -10,7 +10,7 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>labeleditor</artifactId>
-	<version>0.10.1-SNAPSHOT</version>
+	<version>0.10.1</version>
 
 	<name>Label Editor</name>
 
@@ -95,7 +95,7 @@
 		<connection>scm:git:git://github.com/frauzufall/LabelEditor</connection>
 		<developerConnection>scm:git:git@github.com:frauzufall/LabelEditor</developerConnection>
 		<url>https://github.com/frauzufall/LabelEditor</url>
-		<tag>HEAD</tag>
+		<tag>labeleditor-0.10.1</tag>
 	</scm>
 
 	<issueManagement>
