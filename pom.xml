@@ -10,12 +10,12 @@
 
 	<groupId>sc.fiji</groupId>
 	<artifactId>labeleditor</artifactId>
-	<version>0.10.2-SNAPSHOT</version>
+	<version>0.10.2</version>
 
 	<name>Label Editor</name>
 
 	<description>UI component for image segmentation label comparison and selection</description>
-	<url>https:github.com/frauzufall/LabelEditor</url>
+	<url>https:github.com/ida-mdc/LabelEditor</url>
 	<inceptionYear>2019</inceptionYear>
 	<organization>
 		<name>CSBD</name>
@@ -95,7 +95,7 @@
 		<connection>scm:git:git://github.com/frauzufall/LabelEditor</connection>
 		<developerConnection>scm:git:git@github.com:frauzufall/LabelEditor</developerConnection>
 		<url>https://github.com/frauzufall/LabelEditor</url>
-		<tag>HEAD</tag>
+		<tag>labeleditor-0.10.2</tag>
 	</scm>
 
 	<issueManagement>
