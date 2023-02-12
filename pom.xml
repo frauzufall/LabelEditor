@@ -92,19 +92,19 @@
 	</mailingLists>
 
 	<scm>
-		<connection>scm:git:git://github.com/frauzufall/LabelEditor</connection>
-		<developerConnection>scm:git:git@github.com:frauzufall/LabelEditor</developerConnection>
-		<url>https://github.com/frauzufall/LabelEditor</url>
+		<connection>scm:git:git://github.com/ida-imdc/LabelEditor</connection>
+		<developerConnection>scm:git:git@github.com:ida-imdc/LabelEditor</developerConnection>
+		<url>https://github.com/ida-imdc/LabelEditor</url>
 		<tag>HEAD</tag>
 	</scm>
 
 	<issueManagement>
 		<system>GitHub Issues</system>
-		<url>https://github.com/frauzufall/LabelEditor/issues</url>
+		<url>https://github.com/ida-imdc/LabelEditor/issues</url>
 	</issueManagement>
 	<ciManagement>
 		<system>GitHub Actions</system>
-		<url>https://github.com/frauzufall/LabelEditor/actions</url>
+		<url>https://github.com/ida-imdc/LabelEditor/actions</url>
 	</ciManagement>
 	<repositories>
 		<repository>
